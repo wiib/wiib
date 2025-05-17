@@ -1,3 +1,6 @@
-<hr>
-<p align="center">アタシ再生産</p>
-<hr>
+Computer Science Engineering student
+
+Languages I've worked with:
+* Java
+* Python
+* HTML/CSS/TS (Angular)
